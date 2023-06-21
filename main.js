@@ -1,7 +1,7 @@
 //Variables
 
 let cuartosTotales = 50;
-let cuartosOcupados = 0;
+let cuartosOcupados = 20;
 
 let terminarEjecucion = false;
 
